@@ -28,6 +28,10 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: #000000;
+}
+
 h1 {
   font-family: "Montserrat", "";
   font-weight: var(--title-weight);
