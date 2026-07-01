@@ -23,7 +23,7 @@ header {
 }
 
 .navigation-menu {
-    margin-top: 24px;
+    margin-top: 12px;
 }
 
 input[type="checkbox"]:checked ~ nav{
